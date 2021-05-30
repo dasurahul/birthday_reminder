@@ -1,0 +1,21 @@
+.birthdays-container {
+  min-width: 340px;
+  padding: 2rem;
+  border-radius: 0.25rem;
+  background-color: white;
+  box-shadow: 0 16px 32px rgba(0, 0, 0, 0.25);
+}
+
+.btn {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 1rem;
+  border: none;
+  outline: none;
+  border-radius: 0.25rem;
+  background-color: hsl(350, 73%, 78%);
+  color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
